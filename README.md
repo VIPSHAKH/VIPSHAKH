@@ -7,3 +7,5 @@
 - 🌐 Web-sahifam: [vipshakh.ml](https://vipshakh.ml)
 
 # Dasturlash vaqti: [![wakatime](https://wakatime.com/badge/user/9bbb3350-4486-40b3-babd-75e87d6c1329.svg)](https://wakatime.com/@9bbb3350-4486-40b3-babd-75e87d6c1329)
+
+# Github profile views - [![](https://visitcount.itsvg.in/api?id=VIPSHAKH&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
