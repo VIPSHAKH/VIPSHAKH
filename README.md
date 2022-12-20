@@ -6,3 +6,4 @@
 - ⚡ O'zbek, Musulmon, Dasturchi
 - 🌐 Web-sahifam: [vipshakh.ml](https://vipshakh.ml)
 
+# Dasturlash vaqti: [![wakatime](https://wakatime.com/badge/user/waka_f2c85448-3758-450d-b889-3788951fc6eb.svg)](https://wakatime.com/@waka_f2c85448-3758-450d-b889-3788951fc6eb)
