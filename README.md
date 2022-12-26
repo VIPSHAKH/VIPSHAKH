@@ -8,4 +8,4 @@
 
 # Dasturlash vaqti: [![wakatime](https://wakatime.com/badge/user/9bbb3350-4486-40b3-babd-75e87d6c1329.svg)](https://wakatime.com/@9bbb3350-4486-40b3-babd-75e87d6c1329)
 
-# Qiziqqanlar soni - [![](https://visitcount.itsvg.in/api?id=VIPSHAKH&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
+# Qiziqqanlar soni - [![](https://visitcount.itsvg.in/api?id=VIPSHAKH&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
