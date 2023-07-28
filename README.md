@@ -1,4 +1,4 @@
-# Shokirov Shoxrux Full-stack dasturchi
+# Guli O'razmetova Full-stack dasturchi
 - 🔭 Hozirda talaba, bo'lajak senior-dasturchi
 - 🌱 Full-stack, Python, PHP bo'yicha o'qiyapti.
 - 💬 Shuningdek Seo, SMM, Dizaynerlik bo'yicha ko'nikmaga egaman
