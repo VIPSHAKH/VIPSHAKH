@@ -4,7 +4,7 @@ I'm **Shaxrux Shakirov**, also known as **VIPSHAKH**.
 
 ## About Me
 
-I'm a **full-stack developer** and aspiring **senior developer**, currently a student in Uzbekistan. I am passionate about software development, and I specialize in **Python**, **PHP**, and **JavaScript**. Alongside programming, I have experience in **SEO**, **SMM**, and **design**. My goal is to contribute to impactful projects and collaborate with developers around the world.
+I'm a **full-stack developer** and aspiring **junior developer**, currently a student in Uzbekistan. I am passionate about software development, and I specialize in **Python**, **PHP**, and **JavaScript**. Alongside programming, I have experience in **SEO**, **SMM**, and **design**. My goal is to contribute to impactful projects and collaborate with developers around the world.
 
 - 🌱 I’m currently learning **Full-stack development**, including frameworks like **Flask**, **Django**, **Laravel**, and front-end technologies such as **React** and **Vue**.
 - 🌐 You can find me on my [Personal Website](https://vipshakh.uz).
@@ -16,10 +16,12 @@ I'm a **full-stack developer** and aspiring **senior developer**, currently a st
 - **Python** | **PHP** | **JavaScript**
 - **Flask** | **Django** | **Laravel**
 - **HTML/CSS** | **React** | **Vue**
+- **C++** | **JAVA** | **Kotlin**
 
 ### Tools & Technologies
 - **Git** | **Docker** | **Wakatime** | **VS Code**
 - **SEO** | **SMM** | **UI/UX Design**
+- **Github** | **Adobe** | **Figma**
 
 ## 📍 Where to Find Me
 
@@ -31,9 +33,10 @@ I'm a **full-stack developer** and aspiring **senior developer**, currently a st
 
 ### Some of my most popular repositories:
 1. [**VIPSHAKH**](https://github.com/VIPSHAKH/VIPSHAKH) - My main repo with various side projects.
-2. [**Portfolio Website**](https://github.com/VIPSHAKH/Portfolio-Website) - My personal portfolio to showcase my skills.
-3. [**FreeUZ**](https://github.com/VIPSHAKH/FreeUZ) - A simple dynamic website template.
+2. [**Portfolio Website**](https://github.com/VIPSHAKH/live) - My Unusual portfolio with many effects and to showcase my skills.
+3. [**VIPSHAKH.github.io**](https://github.com/VIPSHAKH/VIPSHAKH.github.io) - A Atypical Pithy Portfolio.
 4. [**NAMOZ**](https://github.com/VIPSHAKH/NAMOZ) - A basic Islamic prayer schedule website template.
+5. [**AJIBUJI**](https://github.com/VIPSHAKH/AJIBUJI) - Frenzy - for happy ☺.
 
 ## 🌱 I’m currently learning
 - **Django**, **React**, and **Machine Learning** concepts.
