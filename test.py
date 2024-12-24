@@ -1,1 +1,1 @@
-new
+print(hello)
