@@ -1,5 +1,5 @@
 # Hi there 👋 Welcome to My GitHub!
-
+![](LOGO.gif)
 I'm **Shaxrux Shakirov**, also known as **VIPSHAKH**.
 
 ## About Me
