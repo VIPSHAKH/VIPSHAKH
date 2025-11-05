@@ -1,4 +1,4 @@
-![](banner.jpg)
+![](banner-mini.jpg)
 I'm **Shoxrux Shokirov**, also known as **VIPSHAKH**.
 
 ## About Me
