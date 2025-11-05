@@ -3,22 +3,16 @@ I'm **Shoxrux Shokirov**, also known as **VIPSHAKH**.
 
 ## About Me
 
-I'm a **full-stack developer** and aspiring **junior developer**, currently a student in Uzbekistan. I am passionate about software development, and I specialize in **Python**, **PHP**, and **JavaScript**. Alongside programming, I have experience in **SEO**, **SMM**, and **design**. My goal is to contribute to impactful projects and collaborate with developers around the world.
+Software (web) and Data Engineer specializing in Artificial Intelligence, focusing on building efficient, scalable, and intelligent systems. Passionate about solving complex problems through data-driven insights and innovative software solutions. Alongside programming, I have experience in Art. My goal is to contribute to impactful projects and collaborate with developers around the world.
 
 - 🌐 You can find me on my [Personal Website](https://vipshakh.uz).
 - 📫 Let's connect! You can reach me via [Telegram](https://t.me/vipshakh).
 
-## My Tech Stack
-
-### Languages & Frameworks
-- **Python** | **PHP** | **JavaScript**
-- **Flask** | **Django** | **Laravel**
-- **HTML/CSS** | **React** | **Vue**
-- **C++** | **JAVA** | **Kotlin**
-
 
 ## 🌱 I’m currently learning
-- **Best practices** for clean and scalable code.
+- **Advanced AI** development and data optimization techniques
+
+- **MLOps** and cloud-based automation for scalable systems
   
 ## 📈 GitHub Stats
 
