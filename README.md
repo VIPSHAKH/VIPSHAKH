@@ -3,15 +3,15 @@ I'm **Shoxrux Shokirov**, also known as **VIPSHAKH**.
 
 ## About Me
 
-Software (web) and Data Engineer specializing in Artificial Intelligence, focusing on building efficient, scalable, and intelligent systems. Passionate about solving complex problems through data-driven insights and innovative software solutions. Alongside programming, I have experience in Art. My goal is to contribute to impactful projects and collaborate with developers around the world.
+Software (web) and Data Engineer specializing in Artificial Intelligence, focusing on building efficient, scalable, and intelligent systems. Passionate about solving complex problems through data-driven insights and innovative software solutions. Alongside programming, have experience in Art. Goal is to contribute to impactful projects and collaborate with developers around the world.
 
 - 🌐 You can find me on my [Personal Website](https://vipshakh.uz).
 - 📫 Let's connect! You can reach me via [Telegram](https://t.me/vipshakh).
 
 
-## 🌱 I’m currently learning
+## 🌱 Currently learning
 - **Advanced AI** development and data optimization techniques
-
+- **AI engineer** bachelor's student in PDPU 
 - **MLOps** and cloud-based automation for scalable systems
   
 ## 📈 GitHub Stats
@@ -30,9 +30,6 @@ Feel free to follow me for updates and reach out for collaborations, feedback, o
 </picture>
 
 # Coding time : [![wakatime](https://wakatime.com/badge/user/9bbb3350-4486-40b3-babd-75e87d6c1329.svg)](https://wakatime.com/@9bbb3350-4486-40b3-babd-75e87d6c1329)
-
-# Visitors - [![](https://visitcount.itsvg.in/api?id=VIPSHAKH&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
 
 
 ## 🌐 Socials:
