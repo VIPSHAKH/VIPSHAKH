@@ -19,9 +19,9 @@ I'm **Shoxrux Shokirov**, also known as **VIPSHAKH**.
 ![VIPSHAKH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIPSHAKH&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 # Coding time : [![wakatime](https://wakatime.com/badge/user/9bbb3350-4486-40b3-babd-75e87d6c1329.svg)](https://wakatime.com/@9bbb3350-4486-40b3-babd-75e87d6c1329)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIPSHAKH/VIPSHAKH/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIPSHAKH/VIPSHAKH/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/VIPSHAKH/VIPSHAKH/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake-dark.svg" />
 </picture>
 
 
